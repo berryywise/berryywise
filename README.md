@@ -2,7 +2,7 @@ Hi there 👋 I am berry!
 
 -----------------------
 
-A self taught Javascript developer from The Netherlands
+A self taught Junior Javascript (MERN) developer from The Netherlands
 
 <!--
 **berryywise/berryywise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
