@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋 I am berry!
+
+-----------------------
+
+A self taught Javascript developer from The Netherlands
 
 <!--
 **berryywise/berryywise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📚 I’m currently working on Bookmaniac. A e-book marketplace made with NodeJS, ExpressJS, MongoDB and EJS.
+- 🧐 I’m currently learning React - to make the circle complete for the MERN stack! 
+
