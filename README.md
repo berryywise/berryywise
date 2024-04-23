@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 - 📚 I’m currently working on Bookmaniac. A e-book marketplace made with NodeJS, ExpressJS, MongoDB and EJS.
   
-- Key features:
+  
+  Key features:
   
 - User authentication and authorization. Register - Login - Caching.
 - Full email system. Email verification, password recovery, all the way to a new sale announcement.
@@ -32,6 +33,8 @@ Here are some ideas to get you started:
 
 - Want to see a live demo? Check it out here 👉 https://app.bookmaniac.net/
 - Use login 'admin' and password 'admin', or create your own account and achieve the full experience!
+
+-----------------------------
 
 
 - 🧐 I’m currently learning React - to make the circle complete for the MERN stack! 
