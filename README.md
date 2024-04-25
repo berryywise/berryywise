@@ -11,6 +11,10 @@ You can upload your e-book and publish it with the world. A user management syst
 
 -----------------------------
 
+# Current Path:
+
+At the moment I am learning React to have the full stack MERN toolset under my belt.
+
 
 
 
