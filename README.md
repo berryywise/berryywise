@@ -1,5 +1,5 @@
 # About Me:
-Hey there! My name is Berry. A self taught Junior Javascript developer from The Netherlands.
+Hey there! My name is Berry. A self taught full stack developer from The Netherlands.
 
 I have been teaching myself web development for about 1.5 years now with The Odin Project as my main curriculum.
 
