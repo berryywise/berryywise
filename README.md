@@ -14,7 +14,8 @@ You can upload your e-book and publish it with the world. A user management syst
 
 [Beatton Webshop](https://github.com/berryywise/beatton-spa-webshop)
 
-Beatton Webshop, a full stack application e-commerce website for high end furniture. Based on a collabration with a designer on dribbble.
+A full stack e-commerce website for high end furniture. Based on a collabration with a designer on dribbble.
+Makes use of Single Page App with Reacter Router Dom for instant speed responses.
 
 -----------------------------
 
