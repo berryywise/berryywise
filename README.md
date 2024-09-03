@@ -11,6 +11,11 @@ I have been teaching myself web development for about 1.5 years now with The Odi
 A e-book marketplace made with NodeJS, ExpressJS, MongoDB and EJS.
 You can upload your e-book and publish it with the world. A user management system keeps tracks of all the users and their e-books, and with a marketplace which makes it all come together.
 
+
+[Beatton Webshop](https://github.com/berryywise/beatton-spa-webshop)
+
+Beatton Webshop, a full stack application e-commerce website for high end furniture. Based on a collabration with a designer on dribbble.
+
 -----------------------------
 
 
