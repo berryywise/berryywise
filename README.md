@@ -16,6 +16,7 @@ You can upload your e-book and publish it with the world. A user management syst
 
 A full stack e-commerce website for high end furniture. Based on a collabration with a designer on dribbble.
 Business impression, add furniture to cart with global state management, and mobile friendly.
+(Server side is being implemented as we speak! :) )
 
 
 -----------------------------
