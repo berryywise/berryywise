@@ -6,17 +6,16 @@ I have been teaching myself web development for about 1.5 years now with The Odi
 
 # Projects:
 
-[Bookmaniac](https://github.com/berryywise/e-bookmaniac)
-
-A e-book marketplace made with NodeJS, ExpressJS, MongoDB and EJS.
-You can upload your e-book and publish it with the world. A user management system keeps tracks of all the users and their e-books, and with a marketplace which makes it all come together.
-
-
 [Beatton Webshop](https://github.com/berryywise/beatton-spa-webshop)
 
 A full stack e-commerce website for high end furniture. Based on a collabration with a designer on dribbble.
 Business impression, add furniture to cart with global state management, and mobile friendly.
-(Server side is being implemented as we speak! :) )
+
+
+[Bookmaniac](https://github.com/berryywise/book-marketplace)
+
+A e-book marketplace made with NodeJS, ExpressJS, MongoDB and EJS.
+You can upload your e-book and publish it with the world. A user management system keeps tracks of all the users and their e-books, and with a marketplace which makes it all come together.
 
 
 -----------------------------
